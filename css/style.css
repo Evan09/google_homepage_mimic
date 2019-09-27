@@ -1,3 +1,31 @@
-.header {
-    color: red;
+body {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;    
+}
+
+#header {
+    width: 100%;
+    height: 100px;
+}
+
+.navigation-bar {
+
+}
+
+.navigation-bar a {
+
+}
+
+.navigation-bar a.left-header-link:hover, a.right-header-link:hover {
+    text-decoration: underline;
+}
+
+.navigation-bar a.img {
+    display: inline;
+}
+
+.navigation-bar .login-button {
+
 }
